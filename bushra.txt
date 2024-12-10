@@ -1,0 +1,91 @@
+toy car
+124
+45.6
+doll
+212
+34.8
+lego
+328
+78.5
+ball
+455
+56.7
+puzzle
+298
+42.9
+coloring book
+367
+19.8
+crayons
+214
+12.5
+scooter
+490
+95.3
+tricycle
+312
+88.4
+action figure
+251
+49.2
+stuffed bear
+428
+62.7
+backpack
+389
+72.4
+lunchbox
+196
+38.2
+water bottle
+174
+15.9
+storybook
+238
+27.3
+sketchpad
+145
+18.7
+paints
+367
+23.8
+sticker book
+119
+11.2
+playdough
+268
+14.7
+blocks
+335
+46.1
+bubbles
+187
+8.9
+sandbox
+312
+91.4
+kite
+139
+33.2
+jump rope
+278
+21.5
+hula-hoop
+319
+25.8
+puzzle board
+209
+38.4
+kid swatch
+485
+53.7
+slippers
+345
+19.4
+baseball cap
+233
+27.6
+cap
+300
+40.5
+
